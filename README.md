@@ -5,10 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # For API
 ### Getting started
 Install JSON Server
-  npm install -g json-server
+  ~npm install -g json-server~
 
 Start JSON Server
-  json-serve db.json
+  ~json-serve db.json~
 
 ## Development server
 
