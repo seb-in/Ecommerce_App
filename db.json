@@ -39,23 +39,13 @@
   "cart": [
     {
       "product": {
-        "id": 1,
-        "name": "Item-1",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental.jpg",
-        "price": 299
-      },
-      "id": 1
-    },
-    {
-      "product": {
         "id": 2,
         "name": "Item-2",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
         "imageUrl": "./assets/ecommerce/dental4.jpg",
         "price": 599
       },
-      "id": 2
+      "id": 1
     },
     {
       "product": {
@@ -65,57 +55,17 @@
         "imageUrl": "./assets/ecommerce/dental3.jpg",
         "price": 799
       },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Item-1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
+        "imageUrl": "./assets/ecommerce/dental.jpg",
+        "price": 299
+      },
       "id": 3
-    },
-    {
-      "product": {
-        "id": 1,
-        "name": "Item-1",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental.jpg",
-        "price": 299
-      },
-      "id": 4
-    },
-    {
-      "product": {
-        "id": 1,
-        "name": "Item-1",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental.jpg",
-        "price": 299
-      },
-      "id": 5
-    },
-    {
-      "product": {
-        "id": 1,
-        "name": "Item-1",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental.jpg",
-        "price": 299
-      },
-      "id": 6
-    },
-    {
-      "product": {
-        "id": 2,
-        "name": "Item-2",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental4.jpg",
-        "price": 599
-      },
-      "id": 7
-    },
-    {
-      "product": {
-        "id": 2,
-        "name": "Item-2",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos at, sint animi rerum dicta blanditiis, fuga quae ad quis ab illo temporibus, atque tempore quasi adipisci vel magnam! Expedita, debitis!",
-        "imageUrl": "./assets/ecommerce/dental4.jpg",
-        "price": 599
-      },
-      "id": 8
     }
   ],
   "posts": [
