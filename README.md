@@ -15,6 +15,10 @@ Install JSON Server
 Start JSON Server
 
   ```json-server --watch db.json```
+
+
+  ![Screenshot_Home](home.png)
+   ![Screenshot_cart](cart.png)
  
 
 
