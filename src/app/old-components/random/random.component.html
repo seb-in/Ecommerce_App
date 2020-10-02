@@ -1,0 +1,10 @@
+<div style="text-align: center;">
+    <div><h1>{{message}}
+    </h1></div>
+    <h2>Navigation and Routing</h2>
+    </div>
+    <app-test (childEvent)="message=$event" [parentData]="n"></app-test>
+    <nav>
+        <a routerLink='/departments' routerLinkActive="active" >Department </a>
+        <a routerLink='/employees' routerLinkActive="active"> Employees</a>
+    </nav>

@@ -1,0 +1,40 @@
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Start Date</th>
+            <th>Activity </th>
+            <th>End Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let field of fieldArray; let i = index">
+            <td>
+                <input [(ngModel)]="field.startDate" class="form-control" type="date" name="{{field.startDate}}" />
+            </td>
+            <td>
+                <input [(ngModel)]="field.activity" class="form-control" type="text" name="{{field.activity}}" />
+            </td>
+            <td>
+                <input [(ngModel)]="field.endDate" class="form-control" type="date" name="{{field.endDate}}" />
+            </td>
+            <td>
+                <button class="btn btn-default"  type="button" (click)="deleteFieldValue(i)">Delete</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input class="form-control" type="date" id="newAttributestartDate" [(ngModel)]="newAttribute.startDate" name="newAttributestartDate" />
+            </td>
+            <td>
+                <input class="form-control" type="text" id="newAttributeactivity" [(ngModel)]="newAttribute.activity" name="newAttributeactivity" />
+            </td>
+            <td>
+                <input class="form-control" type="date" id="newAttributeendDate" [(ngModel)]="newAttribute.endDate" name="newAttributeendDate" />
+            </td>
+            <td>
+                <button class="btn btn-default" type="button" (click)="addFieldValue()">Add</button>
+            </td>
+        </tr>
+    </tbody>
+</table>

@@ -1,0 +1,16 @@
+li.pad {
+    padding: 16px 5px 16px 5px;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+li.list-group-item {
+   padding: 10px 5px 10px 5px;
+
+}

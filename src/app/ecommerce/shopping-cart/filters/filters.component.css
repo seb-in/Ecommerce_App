@@ -1,0 +1,10 @@
+.zeropad {
+    padding: 0rem;
+}
+.filters {
+    font-size: small;
+    color: black;
+}
+.card, .form-control, .btn {
+    border-radius: 0;
+}

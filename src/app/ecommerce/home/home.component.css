@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: rgb(192, 185, 178);
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
