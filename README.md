@@ -1,4 +1,4 @@
-# Ecommerce App - Under Progress
+# Ecommerce App - Developing Stage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
@@ -17,8 +17,8 @@ Start JSON Server
   ```json-server --watch db.json```
 
 
-  ![Screenshot_Home](home.png)
-   ![Screenshot_cart](cart.png)
+![Screenshot_Home](home.png)
+![Screenshot_cart](cart.png)
  
 
 
